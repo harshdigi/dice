@@ -59,6 +59,6 @@ The project was created as a learning exercise for HTML, CSS, and JavaScript. It
 
 ## Author
 
-This project was created by Harsh Ahuja. You can contact me at harshkahuja@example.com for any questions or feedback regarding the project.
+This project was created by Harsh Ahuja. You can contact me at harshkahuja@gmail.com for any questions or feedback regarding the project.
 
 Enjoy playing the dice game!
